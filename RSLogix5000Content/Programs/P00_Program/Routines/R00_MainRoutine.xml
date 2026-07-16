@@ -2,7 +2,7 @@
 <Routine Name="R00_MainRoutine" Type="RLL">
   <RLLContent>
     <Rung Type="N">
-      <Comment><![CDATA[This is for VCS Tools testing new comment jpo dans la branche temporaire
+      <Comment><![CDATA[This is for VCS Tools testing new comment jpo 
 ]]></Comment>
       <Text><![CDATA[MUL(box_width,box_length,box_area);]]></Text>
     </Rung>
